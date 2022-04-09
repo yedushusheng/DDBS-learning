@@ -18,7 +18,7 @@
 13.SQL解析优化
 14.数据库锁
 15.事务
-16.日志(undo/redo/binlog)
+16.日志(undo log/redo/binlog)
 17.复制
 18.备份恢复
 19.MySQL内核
